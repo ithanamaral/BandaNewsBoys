@@ -76,3 +76,12 @@ footer{
     height: 533px;
    
 }
+
+@media screen and (max-width:380px){
+   .imagem{ 
+    width: 800px;
+   }
+   .container{
+    width: 2200px;
+   }
+}
