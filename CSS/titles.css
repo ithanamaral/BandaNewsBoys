@@ -84,4 +84,8 @@ footer{
    .container{
     width: 2200px;
    }
+    .members_container{
+    line-height: 1.5;
+   }
+}
 }
