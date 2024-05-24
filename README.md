@@ -8,7 +8,7 @@ Site que fiz como proposta de um blog informativo sobre a banda americana The Ne
 </br>
 
 ## GIF's
-Aqui estão alguns gifs do site desse projeto, para ver o video completo vá na pasta projectClips! =)
+Aqui estão alguns gifs do site desse projeto, para ver o video completo vá na pasta Vídeos! =)
 </br>
 <p align = center>
 <img width="650" heigth="700" src ="Vídeo/giff_first.gif">
